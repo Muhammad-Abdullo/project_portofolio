@@ -1,9 +1,7 @@
-# Serverless Architecture Proof of Concept (PoC)
+# AWS Cloud Course
 
 ![Serverless Architecture](nilai_aws.png)
-*Gambar: Arsitektur Serverless untuk Project 1*
 
 ## 📌 Overview
-Proyek ini adalah pengujian Proof of Concept (PoC) untuk memvalidasi penggunaan arsitektur serverless dalam membangun API backend yang efisien, responsif, dan scalable.
-
-Tujuan utama dari PoC ini adalah menguji bagaimana sistem mengelola lalu lintas data tanpa memerlukan manajemen server fisik/VPS, sekaligus menekan biaya operasional menggunakan skema pay-per-execution.
+Successfully completed the AWS Cloud course with an overall score of 99.86%. Achieved 100/100 on all Knowledge Checks and 98.27/100 on the Practice Exam.
+This learning journey strengthened my understanding of cloud computing fundamentals and AWS core services. Looking forward to applying these skills in real-world projects.
