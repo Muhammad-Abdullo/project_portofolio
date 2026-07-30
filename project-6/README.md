@@ -1,6 +1,6 @@
 # Online Gambling Awareness Campaign
 
-![Serverless Architecture](panit.jpeg)
+![Serverless Architecture](pandaan.png)
 
 ## Overview
 
